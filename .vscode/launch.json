@@ -5,7 +5,7 @@
     "version": "0.2.0",
     "configurations": [
         {
-            "name": "Solve Euler Problems",
+            "name": "Run All Scripts",
             "type": "PowerShell",
             "request": "launch",
             "script": "${workspaceFolder}/main.ps1",
