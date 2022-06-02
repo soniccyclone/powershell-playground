@@ -1,4 +1,4 @@
-Import-Module "./euler_problems.psm1" -Verbose -Force
+Import-Module "./euler_problems.psm1" -Force
 
 Write-Output "Euler's Problem 1: 1000"
 Write-Output "Expected: 233168"
